@@ -1,11 +1,15 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bg-clor{
+  background-color: #283897 !important;
 }
+
+.carousel-caption h5 {
+  color: #fff;  
+}
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
