@@ -114,7 +114,7 @@ function Contact() {
         <div>
           <a href="https://www.linkedin.com/in/sachin-chhokar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="btn btn-outline-light mx-2">LinkedIn</a>
           <a href="https://github.com/chhokarsachin" className="btn btn-outline-light mx-2">GitHub</a>
-          <a href="https://twitter.com/your-twitter" className="btn btn-outline-light mx-2">Twitter</a>
+          <a href="" className="btn btn-outline-light mx-2">Twitter</a>
           <a href="https://www.instagram.com/ch_sachin_chhokar1510?igsh=azV4bTA0MHV5YXVk" className="btn btn-outline-light mx-2">Instagram</a>
           <a href="https://www.facebook.com/profile.php?id=100028785699696" className="btn btn-outline-light mx-2">Facebook</a>
         </div>
